@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WildishThing
 - 👀 I’m interested in responsive web development
-- 🌱 I’m currently learning with Udeny, although I subscribe to Team Treehouse
+- 🌱 I’m currently learning with Udemy, although I subscribe to Team Treehouse too.
 
 <!---
 WildishThing/WildishThing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
